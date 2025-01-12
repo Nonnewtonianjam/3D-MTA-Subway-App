@@ -34,11 +34,6 @@ cd metro-tracker
 npm install
 ```
 
-3. Create a `.env.local` file in the root directory and add your MTA API key:
-```env
-MTA_API_KEY=your_api_key_here
-```
-
 ## Development
 
 Run the development server:
